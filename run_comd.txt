@@ -1,0 +1,1 @@
+./bwa mem -M -R '@RG\tID:foo_lane\tPL:illumina\tLB:library\tSM:sample_name' Ref_5.fa test40a.fq test40b.fq -o test.sam
